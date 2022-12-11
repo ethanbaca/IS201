@@ -1,0 +1,95 @@
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #243635;
+    text-align: center;
+}
+li{
+    color: #533636e7;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+.homebg{
+    background-color: antiquewhite;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: bottom center;
+}
+header{
+    color: rgb(19, 13, 6);
+}
+h2{
+    color: rgb(53, 43, 29);
+    text-align: center;
+    text-decoration: underline;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.link{
+    color: rgb(19, 29, 30);
+    text-decoration: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+}
+.center-text{
+    text-align: center;
+    
+}
+h6{
+    text-align: center;
+    font-size: 1rem;
+}
+a{
+    text-align: center;
+    font-size: 1rem;
+}
+a:hover{
+    text-decoration: underline;
+    font-size: 15px;
+}
+a:visited{
+    color: rgb(10, 8, 8);
+}
+.center-image{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.insta-photo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.navi{
+    text-align: right;
+    color: rgb(79, 14, 108);
+}
+.divider{
+    margin-top: 1.5rem !important;
+    margin-bottom: 1.5rem !important;
+    color:black;
+    
+}
+div{
+    list-style: inside;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    text-align: center;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.artists{
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: bold;
+    color: fuchsia;
+    font-size: larger;
+    
+}
+.circle{
+    border-radius: 50%;
+}
